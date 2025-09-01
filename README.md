@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/matrixbanner.gif" alt="Banner" />
+  <img src="assets/matrixbanner.gif" alt="Banner" width="1080" height="200"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=18A2E8&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shaik+Riyaz+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Code+Crafter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=18A2E8&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shaik+Riyaz+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Data+Analyst" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" /> 
@@ -21,7 +21,7 @@
   <li>🎓 <b>Cybersecurity & Digital Forensics student</b> at VIT Bhopal (CGPA: 8.09).</li>
   <li>🛡️ Eager about threat analytics, ethical hacking, and cyber defense.</li>
   <li>🛠️ Builder of security tools and ML-powered threat detectors.</li>
-  <li>📧 Reach me: shairiyaz11011@gmail.com | <a href="#">LinkedIn</a> | <a href="#">GitHub</a></li>
+  <li>📧 Reach me: shairiyaz11011@gmail.com | <a href="www.linkedin.com/in/shaik-riyaz-761545251">LinkedIn</a> | <a href="">GitHub</a></li>
 </ul>
 
 ---
