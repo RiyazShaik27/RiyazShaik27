@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.gif" alt="Banner" />
+  <img src="assets/banner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">
@@ -31,57 +31,57 @@
 
 ### **Programming Languages:**
 <p>
-  <img src="python.gif" width="30"/>
-  <img src="java.gif" width="30"/>
-  <img src="html.png" width="30"/>
-  <img src="css.webp" width="30"/>
+  <img src="assets/python.gif" width="30"/>
+  <img src="assets/java.gif" width="30"/>
+  <img src="assets/html.png" width="30"/>
+  <img src="assets/css.webp" width="30"/>
 </p>
 
 ### **Libraries & Frameworks:**
 <p>
-  <img src="flask.png" width="30"/>
-  <img src="Streamlit.png" width="30"/>
-  <img src="TensorFlow.jpg" width="30"/>
-  <img src="Numpy.png" width="30"/>
-  <img src="Pandas.png" width="30"/>
-  <img src="Scikit-learn.jpg" width="30"/>
-  <img src="Matplotlib.svg" width="30"/>
-  <img src="Seaborn.svg" width="30"/>
-  <img src="Pillow.jpeg" width="30"/>
-  <img src="Tkinter.jpg" width="30"/>
-  <img src="NetworkX.png" width="30"/>
+  <img src="assets/flask.png" width="30"/>
+  <img src="assets/Streamlit.png" width="30"/>
+  <img src="assets/TensorFlow.jpg" width="30"/>
+  <img src="assets/Numpy.png" width="30"/>
+  <img src="assets/Pandas.png" width="30"/>
+  <img src="assets/Scikit-learn.jpg" width="30"/>
+  <img src="assets/Matplotlib.svg" width="30"/>
+  <img src="assets/Seaborn.svg" width="30"/>
+  <img src="assets/Pillow.jpeg" width="30"/>
+  <img src="assets/Tkinter.jpg" width="30"/>
+  <img src="assets/NetworkX.png" width="30"/>
 </p>
 
 ### **Cybersecurity Techniques:**
 <p>
-  <img src="TCP port scanning.png" width="30"/>
-  <img src="Vulnerability analysis.png" width="30"/>
+  <img src="assets/TCP port scanning.png" width="30"/>
+  <img src="assets/Vulnerability analysis.png" width="30"/>
 </p>
 
 ### **Security Tools:**
 <p>
-  <img src="nmap.png" width="30"/>
-  <img src="Wireshark.jpg" width="30"/>
-  <img src="Autopsy.png" width="30"/>
-  <img src="maltego.png" width="30"/>
-  <img src="Metasploit.svg" width="30"/>
+  <img src="assets/nmap.png" width="30"/>
+  <img src="assets/Wireshark.jpg" width="30"/>
+  <img src="assets/Autopsy.png" width="30"/>
+  <img src="assets/maltego.png" width="30"/>
+  <img src="assets/Metasploit.svg" width="30"/>
 </p>
 
 ### **Cryptography:**
 <p>
-  <img src="steganography.jpeg" width="30"/>
+  <img src="assets/steganography.jpeg" width="30"/>
 </p>
 
 ### **Platforms:**
 <p>
-  <img src="sql.svg" width="30"/>
-  <img src="aws.svg" width="30"/>
+  <img src="assets/sql.svg" width="30"/>
+  <img src="assets/aws.svg" width="30"/>
 </p>
 
 ### **Data Visualization:**
 <p>
-  <img src="power bi.gif" width="30"/>
-  <img src="tableau.png" width="30"/>
+  <img src="assets/power bi.gif" width="30"/>
+  <img src="assets/tableau.png" width="30"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ Explore these in my pinned repositories below ⬇️
 
 <!-- Animation for end -->
 <p align="center">
-  <img src="justlib.gif" alt="Thanks for visiting!" />
+  <img src="assets/justlib.gif" alt="Thanks for visiting!" />
 </p>
 
 <!-- Add a little CSS for fun text glowing effect (works on GitHub web, but has limited CSS support) -->
