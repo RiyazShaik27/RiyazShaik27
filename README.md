@@ -28,60 +28,38 @@
 
 ## 🛠️ <span style="animation: glow 1.2s infinite alternate;">Technical Toolkit</span>
 
-### **Programming Languages:**
-<p>
-  <img src="assets/python.gif" width="30"/>
-  <img src="assets/java.gif" width="30"/>
-  <img src="assets/html.png" width="30"/>
-  <img src="assets/css.webp" width="30"/>
+<h2 align="center">My Complete Skillset</h2>
+<p align="center">
+  <!-- High-res SVG icons from Devicon/simple-icons: -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" width="50"/>
+  <img src="assets/Streamlit.png" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" width="50"/>
+  <img src="assets/Seaborn.svg" height="50" width="50"/>
+  <img src="assets/Pillow.jpeg" height="50" width="50"/>
+  <img src="assets/power bi.gif" height="50" width="50"/>
+  <img src="assets/tableau.png" height="50" width="50"/>
+  <img src="assets/Tkinter.jpg" height="50" width="50"/>
+  <img src="assets/NetworkX.png" height="50" width="50"/>
+  <img src="assets/TCP port scanning.png" height="50" width="50"/>
+  <img src="assets/Vulnerability analysis.png" height="50" width="50"/>
+  <img src="assets/nmap.png" height="50" width="50"/>
+  <img src="assets/Wireshark.jpg" height="50" width="50"/>
+  <img src="assets/Autopsy.png" height="50" width="50"/>
+  <img src="assets/maltego.png" height="50" width="50"/>
+  <img src="assets/Metasploit.svg" height="50" width="50"/>
+  <img src="assets/steganography.jpeg" height="50" width="50"/>
 </p>
 
-### **Libraries & Frameworks:**
-<p>
-  <img src="assets/flask.png" width="30"/>
-  <img src="assets/Streamlit.png" width="30"/>
-  <img src="assets/TensorFlow.jpg" width="30"/>
-  <img src="assets/Numpy.png" width="30"/>
-  <img src="assets/Pandas.png" width="30"/>
-  <img src="assets/Scikit-learn.jpg" width="30"/>
-  <img src="assets/Matplotlib.svg" width="30"/>
-  <img src="assets/Seaborn.svg" width="30"/>
-  <img src="assets/Pillow.jpeg" width="30"/>
-  <img src="assets/Tkinter.jpg" width="30"/>
-  <img src="assets/NetworkX.png" width="30"/>
-</p>
-
-### **Cybersecurity Techniques:**
-<p>
-  <img src="assets/TCP port scanning.png" width="30"/>
-  <img src="assets/Vulnerability analysis.png" width="30"/>
-</p>
-
-### **Security Tools:**
-<p>
-  <img src="assets/nmap.png" width="30"/>
-  <img src="assets/Wireshark.jpg" width="30"/>
-  <img src="assets/Autopsy.png" width="30"/>
-  <img src="assets/maltego.png" width="30"/>
-  <img src="assets/Metasploit.svg" width="30"/>
-</p>
-
-### **Cryptography:**
-<p>
-  <img src="assets/steganography.jpeg" width="30"/>
-</p>
-
-### **Platforms:**
-<p>
-  <img src="assets/sql.svg" width="30"/>
-  <img src="assets/aws.svg" width="30"/>
-</p>
-
-### **Data Visualization:**
-<p>
-  <img src="assets/power bi.gif" width="30"/>
-  <img src="assets/tableau.png" width="30"/>
-</p>
 
 ---
 
