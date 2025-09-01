@@ -6,12 +6,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=18A2E8&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shaik+Riyaz+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Data+Analyst" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" /> 
-  <b>Dynamic Cybersecurity Analyst passionate about building secure systems, analyzing network threats, and turning technical challenges into growth.</b> 
-  <br>
-  <i>Let’s make the digital world safer—one project at a time!</i>
-</p>
 
 ---
 
@@ -92,8 +86,14 @@ Explore these in my pinned repositories below ⬇️
 
 <!-- Animation for end -->
 <p align="center">
-  <img src="assets/justlib.gif" alt="Thanks for visiting!" />
+  <img src="assets/justlib.gif" width="250"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&color=39FF14&center=true&width=600&lines=Matrix+Cube+Represents+Security+in+All+Dimensions" alt="Typing SVG" />
 </p>
 
-<!-- Add a little CSS for fun text glowing effect (works on GitHub web, but has limited CSS support) -->
-<!-- For better animation, use services like https://readme-typing-svg.demolab.com -->
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+      <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
