@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/RBanner.gif" alt="Banner" width="1080" height="200"/>
+  <img src="assets/banner.gif" alt="Banner" width="1080" height="200"/>
 </p>
 
 <h1 align="center">
