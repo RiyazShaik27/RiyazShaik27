@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" />
+  <img src="matrixbanner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">
