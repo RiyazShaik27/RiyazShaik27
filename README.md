@@ -24,35 +24,31 @@
 
 <h2 align="center">My Complete Skillset</h2>
 <p align="center">
-  <!-- High-res SVG icons from Devicon/simple-icons: -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" width="50"/>
-  <img src="assets/Streamlit.png" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" width="50"/>
-  <img src="assets/Seaborn.svg" height="50" width="50"/>
-  <img src="assets/Pillow.jpeg" height="50" width="50"/>
-  <img src="assets/power bi.gif" height="50" width="50"/>
-  <img src="assets/tableau.png" height="50" width="50"/>
-  <img src="assets/Tkinter.jpg" height="50" width="50"/>
-  <img src="assets/NetworkX.png" height="50" width="50"/>
-  <img src="assets/TCP port scanning.png" height="50" width="50"/>
-  <img src="assets/Vulnerability analysis.png" height="50" width="50"/>
-  <img src="assets/nmap.png" height="50" width="50"/>
-  <img src="assets/Wireshark.jpg" height="50" width="50"/>
-  <img src="assets/Autopsy.png" height="50" width="50"/>
-  <img src="assets/maltego.png" height="50" width="50"/>
-  <img src="assets/Metasploit.svg" height="50" width="50"/>
-  <img src="assets/steganography.jpeg" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetworkX-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-005792?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- For tech/tools without official Shields.io logo: use a similar badge with a related icon (Python logo is used above as placeholder for Tkinter/NetworkX, etc.) -->
 </p>
+
 
 
 ---
@@ -60,11 +56,23 @@
 ## 🖥️ My Projects
 
 - <b>Steganography GUI</b>  
-  Hide/extract secret messages in images via a robust Python/Tkinter app.
+  Orchestrated a next-gen desktop platform leveraging Python, Pillow, and Tkinter to seamlessly embed and extract confidential messages within digital images, ensuring uncompromised visual fidelity and fortified data security.<br>
+  <a href="https://github.com/RiyazShaik27/Steganography-GUI">
+    <img src="https://img.shields.io/badge/Project_Link-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="Project link badge" />
+  </a>
+
 - <b>CRYPTOCORNERGUI (CipherForge)</b>  
-  Java-based cryptography suite for classic & modern cipher operations.
+  Architected a full-spectrum cryptography suite in Java Swing, streamlining multi-cipher encryption/decryption with automated workflows, advanced key management, and high-availability user experience.<br>
+  <a href="https://github.com/RiyazShaik27/CipherForge-GUI">
+    <img src="https://img.shields.io/badge/Project_Link-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="Project link badge" />
+  </a>
+
 - <b>Ransomware Traffic Classification Suite</b>  
-  ML-powered Python toolkit for network traffic analytics & ransomware threat detection.
+  Deployed an enterprise-grade analytics engine in Python, harnessing cutting-edge ML with ETL pipelines to automate threat detection, visualize anomalies, and empower proactive network defense for cybersecurity stakeholders.<br>
+  <a href="YOUR_PROJECT_REPO_URL">
+    <img src="https://img.shields.io/badge/Project_Link-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="Project link badge" />
+  </a>
+
 
 Explore these in my pinned repositories below ⬇️
 
@@ -79,7 +87,7 @@ Explore these in my pinned repositories below ⬇️
 ---
 
 ## 🏆 Achievements
-
+- Participated in Smart India Hackathon 2024; developed a prototype for a college attendance system using face recognition.
 - Led my school as Pupil Leader — building teamwork & leadership skills early.
 
 ---
