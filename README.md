@@ -50,7 +50,6 @@
 </p>
 
 
-
 ---
 
 ## 🖥️ My Projects
@@ -98,6 +97,7 @@ Explore these in my pinned repositories below ⬇️
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&color=39FF14&center=true&width=600&lines=Matrix+Cube+Represents+Security+in+All+Dimensions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&color=39FF14&center=true&width=600&lines=Lets+Decode+And+Make+a+Change+In+Every+Dimensions" alt="Typing SVG" />
 </p>
 
 <p align="center">
